@@ -6,6 +6,8 @@ Created a notebook with changes to validate the paper's implementation on `Googl
 
 As a sample, publish the implementation of the following paper running on `Colab`.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yutohub/learning_to_simulate/blob/main/learning_to_simulate/learning_to_simulate.ipynb)
+
 > Learning to Simulate Complex Physics with Graph Networks (ICML 2020)
 >
 > GitHub: [deepmind/deepmind-research/learning_to_simulate](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate)
